@@ -62,4 +62,5 @@ Rails.application.configure do
 
 
   config.hosts << "4ec0da39-42a3-4d8c-acd9-e43573cb3919-3000.apps.codespaces.githubusercontent.com"
+  config.hosts << "9bb2dae1-215e-45ff-b104-79f760fd5e89-3000.apps.codespaces.githubusercontent.com"
 end
